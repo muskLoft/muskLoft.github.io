@@ -1,8 +1,7 @@
 
 {
   "ovpn_file":[
-    {"id":0,"file":"
-  client
+    {"id":0,"file":"client
 dev tun
 remote-cert-tls server
 cipher aes-256-cbc
@@ -72,10 +71,8 @@ fa768a9723c19c58314c4d19cfed82e5
 30773a5c87792e9bc7c34e8d7611002e
 bedd044e48a0f1f96527bfdcc940aa09
 -----END OpenVPN Static key V1-----
-</tls-auth>
-
-"},
-    {"id":1,"file":""}]
+</tls-auth>"}
+    ]
 }
    
 
