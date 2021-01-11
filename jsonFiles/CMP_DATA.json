@@ -1,6 +1,6 @@
 {
 
-    "MyData": [
+    "MyData": 
       {
         "Bannerid": "ca-app-pub-2789278292886815/3193012070",
         "InterstitialId": "ca-app-pub-2789278292886815/9208783756",
@@ -10,6 +10,5 @@
         
       }
       
-    ]
- 
+    
 }
