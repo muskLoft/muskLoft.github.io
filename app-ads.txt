@@ -2824,3 +2824,8 @@ zeta.com, 591, RESELLER
 zmaticoo.com, 113451, RESELLER
 zmaticoo.com, 114386, DIRECT
 zmaticoo.com, 2129f2332033855189cac5d5afcbc950, DIRECT
+adiiix.com, 2edafaae, RESELLER
+aralego.com, par-47BD7BBE27294326FEE36D28AA44A88B, RESELLER
+lunamedia.io, 1yoxx3u24n2zgmg3fqgxniuwcg9qww5a, RESELLER, 524ecb396915caaf
+ucfunnel.com, par-47BD7BBE27294326FEE36D28AA44A88B, RESELLER
+video.unrulymedia.com, 146647607, RESELLER
