@@ -4,7 +4,8 @@ google.com, pub-3115704216538262, DIRECT, f08c47fec0942fa0
 
 
 
-
+MANAGERDOMAIN=tradplusad.com
+tradplusad.com,83e0d72a4f64b65f,DIRECT
 
 
 
